@@ -1,1 +1,1 @@
-# GarbageDetection-demo
+# GarbageDetection-
